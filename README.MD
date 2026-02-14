@@ -210,57 +210,10 @@ The system will:
 
 ----------------------------------------------------------------------------------------------
 
- 📸 Screenshots
 
-(Add screenshots below before submission)
-
-▶️ API Running
-
-```
-[ Paste Screenshot Here ]
-```
-
-▶️ Swagger Test Execution
-
-```
-[ Paste Screenshot Here ]
-```
-
-▶️ Sample Output
-
-```
-[ Paste Screenshot Here ]
-```
-
-----------------------------------------------------------------------------------------------
-
-🎥 Loom Demonstration
-
-Explain:
-
-* Workflow design
-* Guardrails implementation
-* Failure handling
-* Future scalability
-
-(Add Loom link here)
-
-----------------------------------------------------------------------------------------------
-
-## ✅ Evaluation Alignment
-
-| Requirement          | Implementation         |
-| -------------------- | ---------------------- |
-| Intent Understanding | LLM extraction layer   |
-| Follow-up Questions  | Missing-info detection |
-| Avoid Hallucinations | Guardrails + templates |
-| Handle Missing Data  | Fallback strategy      |
-| Explainable Output   | Structured pipeline    |
-
-----------------------------------------------------------------------------------------------
 
 **Author:** Ritanshu Mankar
 
----
+----------------------------------------------------------------------------------------------
 
-If you'd like, I can now generate a **short Loom narration script (3 minutes)** so you know exactly what to say.
+
